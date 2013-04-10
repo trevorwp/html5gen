@@ -1,6 +1,6 @@
 html5gen is a lightweight HTML5 markup generator
 
-You can build HTML programatically using javascript, writing it in a fashion that very closely resembles the markup of pure HTML that you are already familiar with. Because the framework is lightweight, you are free to keep it in its minimalistic form, or you may extend it easily such as adding templating functionality.
+Build HTML programatically using javascript, writing it in a fashion that very closely resembles the markup of pure HTML that you are already familiar with. Because the framework is lightweight, you are free to keep it in its minimalistic form, or you may extend it easily to the extent that it meets your specific needs.
 
 === Example Usage ===
 document.write(
